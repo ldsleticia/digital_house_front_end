@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding: 0;
+    border:0;
+}
+
+body{
+    background-color: #8a2be2;
+    font-family: 'Montserrat', sans-serif;
+    display: block;
+    
+}
+
+.imagem{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    position: relative;
+    display:inline;
+}
+
+.nome{
+    text-align: center;
+    margin-top: 300px;
+    font-size: 40px;
+    color: #ffffff;
+}
+
+.subtitulo{
+    font-size: 35px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.portifolio{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 35px;
+}

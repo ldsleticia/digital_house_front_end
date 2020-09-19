@@ -1,0 +1,58 @@
+<section class="inicio">
+    <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="./img_portifolio/foto_rosto_2.jpg" alt="Imagem de capa do card">
+    </div>
+
+    <nav>Portifólio Sobre Contato</nav>
+<!-- Foto -->
+<div class="text-center">
+<img src="./img_portifolio/foto_rosto_2.jpg" class="rounded-circle" alt="Foto de capa">
+</div>
+
+    position:absolute;
+	left:50%;
+	top:50%;
+	margin-left:-60px;
+    margin-top:-220px;
+    border: none;
+    border-radius: 40%;
+    max-width:300px;
+    max-height:200px;
+
+<!-- Título -->
+<h1>Letícia dos Santos</h1>
+<!-- Subtitulo - cargo -->
+<h2>Desenvolvedora Front End Junior</h2>
+</section>
+
+<section class="portifolio">
+    <div class="card-deck">
+        <div class="card">
+          <img class="card-img-top" src=".../100px180/" alt="Imagem de capa do card">
+          <div class="card-body">
+            <h5 class="card-title">Jane Doe</h5>
+            <p class="card-text">Este é um card maior com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional. Este conteúdo é um pouco maior, para demonstração.</p>
+          </div>
+        </div>
+
+        <div class="card">
+          <img class="card-img-top" src=".../100px180/" alt="Imagem de capa do card">
+          <div class="card-body">
+            <h5 class="card-title">Título do card</h5>
+            <p class="card-text">Este é um card com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional.</p>
+          </div>
+        </div>
+
+        <div class="card">
+          <img class="card-img-top" src=".../100px180/" alt="Imagem de capa do card">
+          <div class="card-body">
+            <h5 class="card-title">Título do card</h5>
+            <p class="card-text">Este é um card maior com suporte a texto embaixo, que funciona como uma introdução a um conteúdo adicional. Este card tem o conteúdo ainda maior que o primeiro, para mostrar a altura igual, em ação.</p>
+          </div>
+        </div>
+      </div>
+</section>
+
+<section class="fim">
+
+</section>
