@@ -76,3 +76,8 @@ body{
 .card-title{
     text-align: center;
 }
+
+.sobre-mim{
+    display: flex;
+    
+}
