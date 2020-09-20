@@ -5,10 +5,32 @@
 }
 
 body{
-    background-color: #c394f1;
+    background-color: #e3c9fd;
     font-family: 'Montserrat', sans-serif;
     display: block;
     
+}
+
+.navbar-expand-lg{
+    background-color:#faf6fe;
+}
+
+.alinhamento-inicio-nav{
+    font-weight: bolder;
+}
+
+.alinhamento-portifolio-nav{
+    text-align: right;
+    margin-left: 900px;
+    font-weight: bolder;
+}
+
+.alinhamento-sobre-nav{
+    font-weight: bolder;
+}
+
+.alinhamento-contato-nav{
+    font-weight: bolder;
 }
 
 .img-alinhamento{
@@ -26,7 +48,6 @@ body{
     text-align: center;
     margin-top: 30px;
     font-size: 40px;
-    color: #ffffff;
 }
 
 .subtitulo{
@@ -35,14 +56,21 @@ body{
     text-decoration: none;
 }
 
+.espacamento{
+    margin-bottom: 100px;
+}
+
 .portifolio{
+    background-color: #ffffff;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 100px;
     font-size: 35px;
 }
 
 .cards-do-portifolio{
+    background-color: #ffffff;
     margin-top: 30px;
+    font-size: 20px;
 }
 
 .card-title{
