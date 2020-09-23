@@ -1,0 +1,5 @@
+se der um git init vai ser
+git init 
+git remote add origin do jeito que vem copiado do clone já cola
+git pull origin master --rebase
+depois vida que segue normal
