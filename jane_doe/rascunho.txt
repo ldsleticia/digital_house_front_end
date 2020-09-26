@@ -1,0 +1,9 @@
+git reset HEAD^ apaga o último commit que você fez também do github
+precisa dar git push -f para salvar que vc apagou do github
+
+quando não é o último commit use o git reset e o ID "hash" da head
+depois git push -f 
+
+se você não colocar o --hard antes do ID ele altera só o do github, o da sua máquina mantém
+
+git revert + ID desfaz as modificações do commit mas o mantém no github e cria um novo commit sinalizando o revert e desfazendo as modificações 
